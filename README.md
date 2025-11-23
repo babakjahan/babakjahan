@@ -1,5 +1,9 @@
 ## 💫 About Me:
-### 👋 Babak Jahan<br><br>**Cloud Backend Engineer | FastAPI | AWS/GCP | Automation**<br><br>15+ years in IT, 3+ years specializing in Python, FastAPI, and cloud engineering. Building scalable APIs, automating workflows, and designing cloud-native solutions.<br><br>---<br><br>## 🛠️ Tech Stack<br><br>**Backend:** Python • FastAPI • TypeScript • Serverless  <br>**Frontend:** SvelteKit • HTML/CSS • Tailwind • HTMX • Jinja2  <br>**Databases:** MongoDB • PostgreSQL • Supabase  <br>**Cloud:** AWS • GCP • Cloudflare  <br>**DevOps:** Docker • Kubernetes • Terraform • Ansible  <br><br>---<br><br>## 🚀 What I Build<br><br>- ⚡ **Fast & Scalable APIs** with FastAPI and cloud-native architecture<br>- 🤖 **Automation Solutions** including bots and workflow optimization<br>- 📊 **Data Solutions** scraping, processing, and integration<br>- 🐳 **Containerized Infrastructure** with Docker & Kubernetes<br><br>---<br><br>## 🌐 Connect<br><br>🔗 [babak.uk](https://www.babak.uk) • 📧 Ready to collaborate on your next project
+### 👋 Babak Jahan<br><br>**Cloud Backend Engineer | FastAPI | AWS/GCP | Automation**<br><br>15+ years in IT, 3+ years specializing in Python, FastAPI, and cloud engineering. Building scalable APIs, automating workflows, and designing cloud-native solutions.<br><br>---<br><br>
+
+🛠️ Tech Stack<br><br>**Backend:** Python • FastAPI • TypeScript • Serverless  <br>**Frontend:** SvelteKit • HTML/CSS • Tailwind • HTMX • Jinja2  <br>**Databases:** MongoDB • PostgreSQL • Supabase  <br>**Cloud:** AWS • GCP • Cloudflare  <br>**DevOps:** Docker • Kubernetes • Terraform • Ansible  <br><br>---<br><br>
+
+🚀 What I Build<br><br>- ⚡ **Fast & Scalable APIs** with FastAPI and cloud-native architecture<br>- 🤖 **Automation Solutions** including bots and workflow optimization<br>- 📊 **Data Solutions** scraping, processing, and integration<br>- 🐳 **Containerized Infrastructure** with Docker & Kubernetes<br><br>---<br><br>## 🌐 Connect<br><br>🔗 [babak.uk](https://www.babak.uk) • 📧 Ready to collaborate on your next project
 
 
 🌐 Socials:
